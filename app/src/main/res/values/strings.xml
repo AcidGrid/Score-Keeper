@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CourtCounterApp3</string>
+        <string name="Score">Score</string>
+        <string name="Fouls">Fouls</string>
+        <string name="AddGoal">Add Goal</string>
+        <string name="AddFoul">Add Foul</string>
+        <string name="Reset">Reset</string>
+</resources>
